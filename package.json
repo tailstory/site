@@ -10,16 +10,16 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "hono": "^4.13.13",
+    "hono": "^4.13.16",
     "jose": "^6.2.12"
   },
   "devDependencies": {
-    "@cloudflare/vitest-plugin": "^1.4.2",
+    "@cloudflare/vitest-plugin": "^1.8.5",
     "@cloudflare/workers-types": "^5.20261015.1",
     "esbuild": "^0.28.2",
     "typescript": "^6.0.3",
-    "vitest": "^4.1.11",
-    "wrangler": "^4.151.0"
+    "vitest": "^4.1.12",
+    "wrangler": "^4.165.0"
   },
   "allowScripts": {
     "esbuild@0.28.2": true,
