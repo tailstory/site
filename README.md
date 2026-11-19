@@ -23,3 +23,7 @@ Open http://localhost:8788/.
 ## Deploy
 
 `npm run deploy`. There are no secrets; `ID_URL` is set in `wrangler.jsonc`.
+
+## License
+
+Copyright 2026 Tailstory. [Apache 2.0](LICENSE).

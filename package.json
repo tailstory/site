@@ -1,6 +1,7 @@
 {
   "name": "skyda-site",
   "private": true,
+  "license": "Apache-2.0",
   "type": "module",
   "scripts": {
     "dev": "wrangler dev --port 8788 --local-upstream localhost:8788",
